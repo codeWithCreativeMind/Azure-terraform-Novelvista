@@ -1,5 +1,5 @@
 # Azure Configuration
-subscription_id                 = "your susbcription -id"
+#subscription_id                 = "your susbcription -id"
 resource_group_name             = "azureskf-T"
 resource_provider_registrations = "none"
 location                        = "eastus"
