@@ -2,7 +2,7 @@
 #subscription_id                 = "your susbcription -id"
 resource_group_name             = "azureskf-T"
 resource_provider_registrations = "none"
-location                        = "eastus"
+location                        = "Sweden Central"
 vnet_name                       = "three-tier-vnet"
 
 # Core Configuration
