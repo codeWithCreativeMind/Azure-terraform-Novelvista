@@ -1,5 +1,5 @@
 # Azure Configuration
-#subscription_id                 = "your subscription_id"
+#subscription_id                 = "102e26df-c1b9-4282-bc2e-9da3bd2164b4"
 resource_group_name             = "azureskf-6"
 environment                     = "dev"
 project_name                    = "novelvista"
