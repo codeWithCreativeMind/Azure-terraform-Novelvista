@@ -1,6 +1,6 @@
 # Azure Configuration
-#subscription_id                 = "your susbcription -id"
-resource_group_name             = "azureskf-T"
+#subscription_id                 = "102e26df-c1b9-4282-bc2e-9da3bd2164b4"
+resource_group_name             = "azureskf-6"
 resource_provider_registrations = "none"
 location                        = "Sweden Central"
 vnet_name                       = "three-tier-vnet"
