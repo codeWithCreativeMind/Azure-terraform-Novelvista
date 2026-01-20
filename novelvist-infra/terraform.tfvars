@@ -1,13 +1,13 @@
 # Azure Configuration
 #subscription_id                 = "your subscription_id"
-resource_group_name             = "azureskf-T"
+resource_group_name             = "azureskf-6"
 environment                     = "dev"
 project_name                    = "novelvista"
 company_name                    = "NovelVista Pvt Ltd"
 suffix                          = "nv123"
 resource_provider_registrations = "none"
 
-tags = {
+tags = {                      
   Project     = "NovelVista"
   Environment = "Development"
   ManagedBy   = "Terraform"
